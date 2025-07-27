@@ -1,8 +1,8 @@
 # SD-Wan
 	1. This do after sd-wan
 	2. SD-wan Rule
-	3.![pro-peO9jWIK](https://github.com/user-attachments/assets/502efb11-79d1-4313-960a-35345dc1a59c)
-
+![pro-peO9jWIK](https://github.com/user-attachments/assets/502efb11-79d1-4313-960a-35345dc1a59c)
+![pro-peO9jWIK](https://github.com/user-attachments/assets/502efb11-79d1-4313-960a-35345dc1a59c)
 
 
 		a. Create new 
