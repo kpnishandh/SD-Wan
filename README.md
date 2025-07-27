@@ -9,10 +9,11 @@ b. This for wan
  c.
 ![c](https://github.com/kpnishandh/SD-Wan/blob/main/c.jpeg)		
   d. ![d](https://github.com/user-attachments/assets/470bf3d5-a01d-422c-b445-d5d7ed337856)
+
 e. Ok
 f. This for management port
-
 g.
+
 ![g](https://github.com/user-attachments/assets/88c30f8a-451e-4c69-a5d4-4176f52d1307)		
 		h.![h](https://github.com/user-attachments/assets/d0f7fc3e-f1f6-4c51-a933-53d6bb5047f3)
 i. Ok
