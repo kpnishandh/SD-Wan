@@ -1,10 +1,10 @@
 # SD-Wan
 	1. This do after sd-wan
 	2. SD-wan Rule
-![App Screenshot](![pro-peO9jWIK](https://github.com/user-attachments/assets/60d3241f-800d-45b1-acc2-0e810aa92352)
+![App Screenshot](![pro-peO9jWIK](https://github.com/user-attachments/assets/502efb11-79d1-4313-960a-35345dc1a59c)
 )
 
-	3.![App Screenshot](![pro-peO9jWIK](https://github.com/user-attachments/assets/502efb11-79d1-4313-960a-35345dc1a59c)
+	3.![App Screenshot](![pro-peO9jWIK]()
 
 
 
