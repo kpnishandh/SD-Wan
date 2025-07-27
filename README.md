@@ -7,7 +7,7 @@ a. Create new
 
 b. This for wan
 
- c.![c](https://github.com/user-attachments/assets/94e98c49-6929-4d87-a8dc-0eb242d45fd1)		
+ c.![c](https://github.com/kpnishandh/SD-Wan/blob/main/c.jpeg)		
   d. ![d](https://github.com/user-attachments/assets/470bf3d5-a01d-422c-b445-d5d7ed337856)
 e. Ok
  
