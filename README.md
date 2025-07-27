@@ -1,7 +1,8 @@
 # SD-Wan
 	1. This do after sd-wan
 	2. SD-wan Rules 
-	3.![pro-peO9jWIK](https://github.com/user-attachments/assets/b326a3cf-fef1-4326-b000-8293c6477533)
+	3.<img width="3333" height="1414" alt="image" src="https://github.com/user-attachments/assets/e5377f0d-7c0a-4b02-9f23-ff6dcfe0a65e" />
+
 
 		a. Create new 
 		b. This for wan
