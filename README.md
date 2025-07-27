@@ -23,7 +23,7 @@
 
          i. Ok
          4. Result  
-  a. 
+         a. 
 ![ra](https://github.com/user-attachments/assets/eca1d7bb-3e65-417f-ba4b-5e8b40b69c98)	
 
   b.
