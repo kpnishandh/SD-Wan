@@ -1,21 +1,17 @@
 # SD-Wan
 	1. This do after sd-wan
 	2. SD-wan Rules 
-	3. 
+	3. ![pro-peO9jWIK](https://github.com/user-attachments/assets/2e396d79-7a60-46d1-9ef2-57873cc3d8fa)
 		a. Create new 
 		b. This for wan
-		c. 
-		
-		d. 
+		c. ![c](https://github.com/user-attachments/assets/94e98c49-6929-4d87-a8dc-0eb242d45fd1)		
+		d. ![d](https://github.com/user-attachments/assets/470bf3d5-a01d-422c-b445-d5d7ed337856)
 		e. Ok
 		f. This for management port 
-		g. 
-		
-		h. 
+		g.![g](https://github.com/user-attachments/assets/88c30f8a-451e-4c69-a5d4-4176f52d1307)		
+		h.![h](https://github.com/user-attachments/assets/d0f7fc3e-f1f6-4c51-a933-53d6bb5047f3)
 		i. Ok
 	4. Result  
-		a. 
-		
-		b. 
-		
-<img width="570" height="2367" alt="image" src="https://github.com/user-attachments/assets/ef64c6b1-07c8-49c9-9e38-2de5ed88db6d" />
+		a. ![ra](https://github.com/user-attachments/assets/eca1d7bb-3e65-417f-ba4b-5e8b40b69c98)	
+		b. ![rb](https://github.com/user-attachments/assets/07c52b64-897a-4f0d-a49c-701f053dbddd)
+
