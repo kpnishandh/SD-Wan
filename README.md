@@ -17,7 +17,8 @@
     g.
 ![g](https://github.com/user-attachments/assets/88c30f8a-451e-4c69-a5d4-4176f52d1307)		
 		h.![h](https://github.com/user-attachments/assets/d0f7fc3e-f1f6-4c51-a933-53d6bb5047f3)
-i. Ok
+
+   i. Ok
 
 4. Result  
 a. 
