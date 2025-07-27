@@ -1,7 +1,7 @@
 # SD-Wan
 	1. This do after sd-wan
 	2. SD-wan Rules 
-	3.<img width="3333" height="1414" alt="image" src="https://github.com/user-attachments/assets/e5377f0d-7c0a-4b02-9f23-ff6dcfe0a65e" />
+	3.<img width="3333" height="1414" alt="image" src="https://github.com/kpnishandh/SD-Wan/blob/main/pro-peO9jWIK.jpeg" />
 
 
 		a. Create new 
