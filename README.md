@@ -26,6 +26,8 @@
   a. 
 
 ![ra](https://github.com/user-attachments/assets/eca1d7bb-3e65-417f-ba4b-5e8b40b69c98)	
-		b. 
+
+b.
+
 ![rb](https://github.com/user-attachments/assets/07c52b64-897a-4f0d-a49c-701f053dbddd)
 
