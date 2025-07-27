@@ -6,6 +6,9 @@ a. Create new
 
 b. This for wan
 
+1. This do after sd-wan
+	2. SD-wan Rule
+
  c.
 ![c](https://github.com/kpnishandh/SD-Wan/blob/main/c.jpeg)		
   d. ![d](https://github.com/user-attachments/assets/470bf3d5-a01d-422c-b445-d5d7ed337856)
