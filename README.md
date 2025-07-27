@@ -1,9 +1,7 @@
 # SD-Wan
 	1. This do after sd-wan
 	2. SD-wan Rule
-![pro-peO9jWIK](https://github.com/user-attachments/assets/502efb11-79d1-4313-960a-35345dc1a59c)
-
-	3.![Alt text](https://github.com/kpnishandh/SD-Wan/commit/9642161d018753051d46148c798741b62e349feb)
+	3.![pro-peO9jWIK](https://github.com/user-attachments/assets/502efb11-79d1-4313-960a-35345dc1a59c)
 
 
 
