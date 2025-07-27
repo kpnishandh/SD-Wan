@@ -2,8 +2,7 @@
 	1. This do after sd-wan
 	2. SD-wan Rule
 ![pro-peO9jWIK](https://github.com/user-attachments/assets/502efb11-79d1-4313-960a-35345dc1a59c)
-a. Create new 
-
+     a. Create new 
      b. This for wan
      c.
 ![c](https://github.com/kpnishandh/SD-Wan/blob/main/c.jpeg)		
