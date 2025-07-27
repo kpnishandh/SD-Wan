@@ -18,6 +18,7 @@ c ![c](https://github.com/user-attachments/assets/94e98c49-6929-4d87-a8dc-0eb242
 		h.![h](https://github.com/user-attachments/assets/d0f7fc3e-f1f6-4c51-a933-53d6bb5047f3)
 		i. Ok
 	4. Result  
+
 		a. ![ra](https://github.com/user-attachments/assets/eca1d7bb-3e65-417f-ba4b-5e8b40b69c98)	
 		b. ![rb](https://github.com/user-attachments/assets/07c52b64-897a-4f0d-a49c-701f053dbddd)
 
